@@ -1,0 +1,67 @@
+﻿Group_No,Group,Example,Tm3k,Tb3k,Tc3k,Pc3k,Vc3k,Gf3k,Hf3k,Hfus3k
+1,"HOOC-(CHn)m-COOH (m > 2, n in 0..2)","1,5-Pentanedioic acid (1)",-1.5257,1.6498,-1.6986,0.001544,-3.72,-4.708,-6.572,-7.583
+2,"NHn-(CHn)m-COOH (m > 2, n in 0..2)",4-Aminobutyric acid (1),11.2271,*****,*****,*****,*****,*****,*****,*****
+3,"NH2-(CHn)m-OH (m > 2, n in 0..2)",4-Aminobutanol (1),0.7732,1.0750,0.4950,0.000728,-23.74,3.079,4.171,-4.840
+4,"OH-(CHn)m-OH (m > 2, n in 0..2)","1,9-Nonanediol (1)",0.6674,0.7193,0.1725,-0.000327,-0.84,7.536,5.411,-0.272
+5,"OH-(CHp)k-O-(CHn)m-OH (m,k > 0; p,n in 0..2)",Dipropylene glycol (1),-0.1073,1.1867,6.6872,0.001937,1.44,-8.397,-8.651,1.661
+6,"OH-(CHp)k-S-(CHn)m-OH (m,k > 0; p,n in 0..2)","2,2'-Diethyl-dihydroxy sulfide (1)",-1.3891,*****,2.6769,0.003792,-1.62,10.194,8.164,-3.479
+7,"OH-(CHp)k-NHx-(CHn)m-OH (m,k > 0; p,n,x in 0..2)",Diethanolamine (1),-0.0781,0.2991,*****,0.003254,-0.69,1.662,1.753,0.301
+8,"CHp-O-(CHn)m-OH (m > 2; n,p in 0..2)",Butoxypropanol (1),*****,-0.4605,*****,*****,*****,*****,*****,*****
+9,NH2-(CHn)m-NH2 (m > 2; n in 0..2),"1,5-Diaminopentane (1)",-0.0604,0.0060,-4.3195,0.006734,6.69,4.100,0.371,5.666
+10,NHk-(CHn)m-NH2 (m > 2; k in 0..1; n in 0..2),"N,N-dimethylpropylenediamine (1)",-1.1888,-0.1819,*****,*****,*****,*****,*****,*****
+11,SH-(CHn)m-SH (m > 2; n in 0..2),"1,5-Pentanedithiol (1)",0.6669,0.4516,*****,*****,*****,*****,*****,*****
+12,NC-(CHn)m-CN (m > 2),Glutaronitrile (1),-0.3798,1.3440,0.0834,-0.011090,-36.89,-7.035,7.782,-0.607
+13,COO-(CHn)m-OOC (m > 2; n in 0..2),Glyceryl tridodecanoate (1),-2.6542,*****,*****,*****,*****,*****,*****,*****
+14,"aC-(CHn=CHm)cyc (fused rings) (n,m in 0..1)","Indene (1), Acenaphthylene (2)",0.2479,-0.3741,-0.0185,0.000851,-8.87,-1.601,2.689,-2.703
+15,aC-aC (different rings),"Biphenylene (2), Biphenyl (1)",1.1395,-0.4961,6.1894,-0.040100,-26.26,-4.459,-4.558,-0.385
+16,"aC-CHn,cyc (different rings) (n in 0..1)",Cyclohexylbenzene (1),0.0570,-0.4574,-0.2474,-0.005826,-8.55,-5.267,-5.914,-0.442
+17,"aC-CHn,cyc (fused rings) (n in 0..1)","Tetralin (2), Indane (2)",-0.5640,-0.1736,0.5060,-0.003746,-11.56,-4.203,-4.863,-0.143
+18,aC-(CHn)m-aC (different rings) (m > 1; n in 0..2),Bibenzyl (1),1.9902,0.3138,3.0321,0.003007,9.73,1.318,0.084,5.377
+19,aC-(CHn)m-CHcyc (different rings) (m > 0; n in 0..2),1-Cyclopentyl-3-phenylpropane (1),*****,0.5928,*****,*****,*****,*****,*****,*****
+20,CHcyc-CHcyc (different rings),Cyclohexylcyclohexane (1),0.5460,0.4387,2.1761,0.002745,7.72,-67.517,-66.870,*****
+21,CHcyc-(CHn)m-CHcyc (different rings) (m > 0; n in 0..2),"1,2-Dicyclohexylethane (1)",0.4497,0.5632,*****,*****,*****,*****,*****,*****
+22,CH multiring,"Hexahydroindan (2), Decalin (2)",0.6647,0.1415,0.4963,-0.000985,-3.33,*****,*****,0.223
+23,C multiring,Spiropentane (1),0.0792,*****,*****,*****,*****,*****,*****,*****
+24,aC-CHm-aC (different rings) (m in 0..2),Diphenylmethane (1),0.6457,0.2391,0.1174,-0.002673,-4.67,-0.729,0.866,-0.958
+25,"aC-(CHm=CHn)-aC (different rings) (m,n in 0..2)","1,2-Diphenylethylene (1)",0.9608,0.7192,0.7039,-0.004661,14.31,-0.702,-2.291,3.275
+26,(CHm=C)cyc-CH=CH-(C=CHn)cyc (different rings),"1,2-Furanyl ethene (1)",16.2235,*****,*****,*****,*****,*****,*****,*****
+27,(CHm=C)cyc-CHp-(C=CHn)cyc (different rings),Difuranyl methane (1),16.8558,*****,*****,*****,*****,*****,*****,*****
+28,aC-CO-aC (different rings),Benzophenone (1),-1.0394,1.0171,-0.2678,-0.001837,-7.05,11.125,7.108,-4.091
+29,aC-CHm-CO-aC (different rings) (m in 0..2),Benzyl phenone (1),-0.4486,0.9674,*****,*****,*****,*****,*****,*****
+30,aC-CO-(C=CHn)cyc (different rings) (n in 0..1),Phenyl-2-furanyl-methanone (1),-0.1376,0.1126,*****,*****,*****,*****,*****,*****
+31,aC-CO-CO-aC (different rings),Diphenylethanedione (1),0.4361,0.9317,*****,*****,*****,*****,*****,-3.687
+32,aC-COcyc (fused rings),Phenolphthalein (1),3.6847,0.5031,*****,*****,*****,*****,*****,2.047
+33,aC-CO-(CHn)m-CO-aC (different rings) (m > 0; n in 0..2),"1,4-Diphenyl-1,4-butanedione (1)",4.9038,*****,*****,*****,*****,*****,*****,7.327
+34,"aC-CO-CHn,cyc (different rings) (n in 0..1)",Cyclohexyl phenyl methanone (1),-7.0038,*****,*****,*****,*****,*****,*****,*****
+35,aC-CO-NHn-aC (different rings) (n in 0..1),N-phenyl benzamide (1),5.9653,*****,*****,*****,*****,*****,*****,2.510
+36,"aC-NHn-CONHm-aC (different rings) (n,m in 0..1)","N,N'-diphenylurea (1)",1.5629,*****,*****,*****,*****,*****,*****,0.018
+37,aC-CO-Ncyc (different rings),N-phenonyl-piperidine (1),-9.1856,*****,*****,*****,*****,*****,*****,*****
+38,aC-Scyc (fused rings),Dibenzothiophene (2),0.2612,0.2242,3.5541,0.004600,12.60,8.333,9.212,-0.784
+39,aC-S-aC (different rings),Diphenyl sulfide (1),-1.8403,0.0185,*****,*****,*****,*****,*****,*****
+40,aC-POn-aC (different rings) (n in 0..4),Triphenylphosphate (3),0.0393,*****,*****,*****,*****,*****,*****,*****
+41,aC-SOn-aC (different rings) (n in 1..4),Diphenyl sulfone (1),0.9514,-0.0850,*****,*****,*****,*****,*****,-2.485
+42,"aC-NHn,cyc (fused rings) (n in 0..1)",Carbazole (2),3.4983,1.1457,3.5541,0.017201,0.44,-2.221,-16.080,0.196
+43,aC-NH-aC (different rings),Diphenylamine (1),-0.3048,0.5768,0.9519,0.008484,1.42,-0.596,-1.994,1.934
+44,aC-(C=N)cyc (different rings),Phenyl-3-pyrazole (1),-1.3060,-0.5335,*****,*****,*****,*****,*****,*****
+45,aC-(N=CHn)cyc (fused rings) (n in 0..1),Benzoxazole (1),-4.9289,-5.2736,*****,*****,*****,*****,*****,-0.599
+46,aC-(CHn=N)cyc (fused rings) (n in 0..1),Benzoisoxazole (1),-10.1007,*****,*****,*****,*****,*****,*****,*****
+47,aC-O-CHn-aC (different rings) (n in 0..2),Benzyl phenyl ether (1),1.0834,0.6571,*****,*****,*****,*****,*****,*****
+48,aC-O-aC (different rings),Diphenyl ether (1),-0.4803,-0.8252,-0.9785,0.001162,-2.63,2.668,-5.074,1.193
+49,"aC-CHn-O-CHm-aC (different rings) (n,m in 0..2)",Benzyl ether (1),-3.2676,0.2790,-1.4002,-0.004716,28.42,-4.229,-2.303,-3.971
+50,aC-Ocyc (fused rings),Benzoxazole (1),-0.3545,-0.6848,*****,*****,*****,*****,*****,-1.153
+51,AROMFUSED[2],Naphthalene (2),0.2825,0.0441,-1.0095,-0.001332,-6.88,1.993,1.904,0.694
+52,AROMFUSED[2]s1,1-Methylnaphthalene (1),-1.2836,-0.1666,0.1605,-0.002030,-3.17,-2.940,-2.274,-3.699
+53,AROMFUSED[2]s2,"2,7-Dimethylnaphthalene (2)",0.3378,-0.2692,-0.6765,-0.002436,-3.85,-1.873,-1.316,2.037
+54,AROMFUSED[2]s2s3,"2,3-Dimethylnaphthalene (1)",1.8941,-0.2807,*****,*****,*****,*****,*****,2.150
+55,AROMFUSED[2]s1s4,"1,4-Dimethylnaphthalene (1)",-2.7585,-0.3294,*****,*****,*****,*****,*****,*****
+56,AROMFUSED[2]s1s2,"1,2-Dimethylnaphthalene (1)",-3.0362,-0.2931,*****,*****,*****,*****,*****,*****
+57,AROMFUSED[2]s1s3,"1,3-Dimethylnaphthalene (1)",-3.2228,-0.3360,*****,*****,*****,*****,*****,*****
+58,AROMFUSED[3],"Phenalene (3), Pyrene (2)",1.6600,0.0402,-1.0430,0.004695,35.21,3.896,5.819,1.176
+59,AROMFUSED[4a],Anthracene (1),7.0402,1.0466,3.3011,0.015244,-6.96,13.843,11.387,5.027
+60,AROMFUSED[4a]s1,9-Methylanthracene (1),-3.3463,-7.8521,*****,*****,*****,*****,*****,*****
+61,AROMFUSED[4a]s1s4,"9,10-Dimethylanthracene (1)",6.8373,*****,*****,*****,*****,*****,*****,*****
+62,AROMFUSED[4p],"Phenanthrene (1), Pyrene (2)",-1.5856,0.9126,2.8885,0.007280,-24.02,-16.040,-19.089,-3.417
+63,AROMFUSED[4p]s3s4,"9,10-Dimethylphenanthrene (1)",2.0821,*****,*****,*****,*****,*****,*****,*****
+64,PYRIDINE.FUSED[2],Quinoline (1),-4.4725,-0.9432,1.1251,-0.005369,63.29,8.688,13.586,-4.967
+65,PYRIDINE.FUSED[2-iso],Isoquinoline (1),-2.5898,-0.5844,3.9241,-0.011207,-2.71,-5.112,-0.314,-2.587
+66,PYRIDINE.FUSED[4],Acridine (1),1.0358,0.1733,7.7134,-0.001275,-12.04,20.073,15.786,-1.365
